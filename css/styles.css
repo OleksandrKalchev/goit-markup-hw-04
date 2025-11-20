@@ -101,6 +101,8 @@ margin:0 auto 48px;
     background-position: center;
     background-size: cover;
     padding: 188px 0;
+    max-width: 1440px;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .hero .button-hero{
