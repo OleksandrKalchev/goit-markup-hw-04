@@ -437,8 +437,13 @@ margin-bottom: 8px;
     fill:#f4f4fd;
 }
 
-.container-footer{
-    margin-right: 120px
+.footer-line{
+    display: flex;
+    align-items: baseline;
+}
+
+.сontainer-footer-logo{
+   margin-right: 120px; 
 }
 
 .p-media-footer{
