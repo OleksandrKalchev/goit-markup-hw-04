@@ -363,9 +363,12 @@ margin-bottom: 8px;
    height: 112px;
    background-color: f4f4fd;
    margin-bottom: 8px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
 }
 
 .svg-icon-two{
-    margin-top: 24px;
-    margin-left: 100px;
+    margin-top: 10px;
+    margin-left: 15px;
 }
