@@ -240,7 +240,7 @@ color: #434455;
 }
 
 .portfolio-item.p-portfolio-active:hover{
-    transform: translateY(0);
+    transform: translateY(0%);
 }
 
 .portfolio-item{
