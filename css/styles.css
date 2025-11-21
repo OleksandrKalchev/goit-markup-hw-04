@@ -438,8 +438,6 @@ margin-bottom: 8px;
 }
 
 .container-footer{
-    display: flex;
-    align-items: baseline;
     margin-right: 120px
 }
 
