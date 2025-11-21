@@ -239,7 +239,7 @@ color: #434455;
   box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08); 
 }
 
-.portfolio-item.p-portfolio-active:hover{
+.p-portfolio-active:hover{
     transform: translateY(0%);
 }
 
@@ -263,6 +263,11 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
+}
+
+.container-app-active{
+    position: relative;
+    overflow: hidden;
 }
 
 .p-portfolio-active{
@@ -345,8 +350,6 @@ margin-bottom: 8px;
     padding: 32px 16px;
     border: 1px solid #e7e9fc;
     border-top: none;
-    position: relative;
-    overflow: hidden;
 }
 
 .logo-footer{
